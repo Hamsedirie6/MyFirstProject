@@ -1,0 +1,15 @@
+/Users/hamsedirie/Documents/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/Users/hamsedirie/Documents/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/Users/hamsedirie/Documents/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/Users/hamsedirie/Documents/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/Users/hamsedirie/Documents/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.sourcelink.json
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/Users/hamsedirie/Documents/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll
